@@ -1,0 +1,8 @@
+P = e
+P = b
+P = e
+P = AB
+FIRST sets:
+FIRST(A) = { e }
+FIRST(B) = { b e }
+FIRST(S) = { b e }
